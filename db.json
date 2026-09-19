@@ -1,0 +1,3022 @@
+{
+  "employees": [
+    {
+      "employeeId": "EMP001",
+      "firstName": "Alice",
+      "lastName": "Brown",
+      "fullName": "Alice Brown",
+      "email": "alice.brown@bank.com",
+      "mobileNumber": "+1-301-6217",
+      "department": "Engineering",
+      "designation": "Senior Backend Developer",
+      "joiningDate": "2014-08-14",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-01",
+      "managerName": "Michael Lee",
+      "location": "New York",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP002",
+      "firstName": "Bob",
+      "lastName": "Hunt",
+      "fullName": "Bob Hunt",
+      "email": "bob.hunt@bank.com",
+      "mobileNumber": "+1-302-6234",
+      "department": "Infrastructure",
+      "designation": "Full-Stack Engineer",
+      "joiningDate": "2015-03-27",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-02",
+      "managerName": "Samantha Cole",
+      "location": "Chicago",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP003",
+      "firstName": "Charlie",
+      "lastName": "Clark",
+      "fullName": "Charlie Clark",
+      "email": "charlie.clark@bank.com",
+      "mobileNumber": "+1-303-6251",
+      "department": "Compliance",
+      "designation": "DevOps Engineer",
+      "joiningDate": "2016-10-12",
+      "employmentType": "Full Time",
+      "managerId": "MGR-OPS-01",
+      "managerName": "Olivia White",
+      "location": "Austin",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP004",
+      "firstName": "Diana",
+      "lastName": "Patel",
+      "fullName": "Diana Patel",
+      "email": "diana.patel@bank.com",
+      "mobileNumber": "+1-304-6268",
+      "department": "Core Banking",
+      "designation": "Security Compliance Lead",
+      "joiningDate": "2017-05-25",
+      "employmentType": "Full Time",
+      "managerId": "MGR-COM-01",
+      "managerName": "Rachel Gomez",
+      "location": "Washington DC",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP005",
+      "firstName": "Ethan",
+      "lastName": "Davis",
+      "fullName": "Ethan Davis",
+      "email": "ethan.davis@bank.com",
+      "mobileNumber": "+1-305-6285",
+      "department": "User Experience",
+      "designation": "Java Backend Specialist",
+      "joiningDate": "2018-12-10",
+      "employmentType": "Full Time",
+      "managerId": "MGR-CORE-01",
+      "managerName": "Daniel Brooks",
+      "location": "Boston",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP006",
+      "firstName": "Fiona",
+      "lastName": "Taylor",
+      "fullName": "Fiona Taylor",
+      "email": "fiona.taylor@bank.com",
+      "mobileNumber": "+1-306-6302",
+      "department": "Data & Analytics",
+      "designation": "Frontend React Developer",
+      "joiningDate": "2019-07-23",
+      "employmentType": "Full Time",
+      "managerId": "MGR-UX-01",
+      "managerName": "Harper Scott",
+      "location": "San Francisco",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP007",
+      "firstName": "George",
+      "lastName": "Anderson",
+      "fullName": "George Anderson",
+      "email": "george.anderson@bank.com",
+      "mobileNumber": "+1-307-6319",
+      "department": "Operations",
+      "designation": "Data Engineer",
+      "joiningDate": "2020-02-08",
+      "employmentType": "Full Time",
+      "managerId": "MGR-DATA-01",
+      "managerName": "Laura Nguyen",
+      "location": "Seattle",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP008",
+      "firstName": "Hannah",
+      "lastName": "Jackson",
+      "fullName": "Hannah Jackson",
+      "email": "hannah.jackson@bank.com",
+      "mobileNumber": "+1-308-6336",
+      "department": "Risk & Fraud",
+      "designation": "Operations Manager",
+      "joiningDate": "2021-09-21",
+      "employmentType": "Full Time",
+      "managerId": "MGR-FIN-01",
+      "managerName": "Kevin Ross",
+      "location": "Denver",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP009",
+      "firstName": "Ian",
+      "lastName": "Harris",
+      "fullName": "Ian Harris",
+      "email": "ian.harris@bank.com",
+      "mobileNumber": "+1-309-6353",
+      "department": "Finance",
+      "designation": "Risk Analyst",
+      "joiningDate": "2014-04-06",
+      "employmentType": "Full Time",
+      "managerId": "MGR-HR-01",
+      "managerName": "Nina Patel",
+      "location": "Atlanta",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP010",
+      "firstName": "Jack",
+      "lastName": "Lee",
+      "fullName": "Jack Lee",
+      "email": "jack.lee@bank.com",
+      "mobileNumber": "+1-310-6370",
+      "department": "HR",
+      "designation": "HR Business Partner",
+      "joiningDate": "2015-11-19",
+      "employmentType": "Full Time",
+      "managerId": "MGR-RISK-01",
+      "managerName": "Alicia Stone",
+      "location": "Dallas",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP011",
+      "firstName": "Karen",
+      "lastName": "Young",
+      "fullName": "Karen Young",
+      "email": "karen.young@bank.com",
+      "mobileNumber": "+1-311-6387",
+      "department": "Engineering",
+      "designation": "Platform Engineer",
+      "joiningDate": "2016-06-04",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-01",
+      "managerName": "Michael Lee",
+      "location": "New York",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP012",
+      "firstName": "Leo",
+      "lastName": "King",
+      "fullName": "Leo King",
+      "email": "leo.king@bank.com",
+      "mobileNumber": "+1-312-6404",
+      "department": "Infrastructure",
+      "designation": "QA Automation Engineer",
+      "joiningDate": "2017-01-17",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-02",
+      "managerName": "Samantha Cole",
+      "location": "Chicago",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP013",
+      "firstName": "Maya",
+      "lastName": "Green",
+      "fullName": "Maya Green",
+      "email": "maya.green@bank.com",
+      "mobileNumber": "+1-313-6421",
+      "department": "Compliance",
+      "designation": "Business Analyst",
+      "joiningDate": "2018-08-02",
+      "employmentType": "Full Time",
+      "managerId": "MGR-OPS-01",
+      "managerName": "Olivia White",
+      "location": "Austin",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP014",
+      "firstName": "Noah",
+      "lastName": "Adams",
+      "fullName": "Noah Adams",
+      "email": "noah.adams@bank.com",
+      "mobileNumber": "+1-314-6438",
+      "department": "Core Banking",
+      "designation": "Cloud Architect",
+      "joiningDate": "2019-03-15",
+      "employmentType": "Full Time",
+      "managerId": "MGR-COM-01",
+      "managerName": "Rachel Gomez",
+      "location": "Washington DC",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP015",
+      "firstName": "Olivia",
+      "lastName": "Campbell",
+      "fullName": "Olivia Campbell",
+      "email": "olivia.campbell@bank.com",
+      "mobileNumber": "+1-315-6455",
+      "department": "User Experience",
+      "designation": "Product Manager",
+      "joiningDate": "2020-10-28",
+      "employmentType": "Full Time",
+      "managerId": "MGR-CORE-01",
+      "managerName": "Daniel Brooks",
+      "location": "Boston",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP016",
+      "firstName": "Priya",
+      "lastName": "Roberts",
+      "fullName": "Priya Roberts",
+      "email": "priya.roberts@bank.com",
+      "mobileNumber": "+1-316-6472",
+      "department": "Data & Analytics",
+      "designation": "Senior Backend Developer",
+      "joiningDate": "2021-05-13",
+      "employmentType": "Full Time",
+      "managerId": "MGR-UX-01",
+      "managerName": "Harper Scott",
+      "location": "San Francisco",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP017",
+      "firstName": "Quinn",
+      "lastName": "Phillips",
+      "fullName": "Quinn Phillips",
+      "email": "quinn.phillips@bank.com",
+      "mobileNumber": "+1-317-6489",
+      "department": "Operations",
+      "designation": "Full-Stack Engineer",
+      "joiningDate": "2014-12-26",
+      "employmentType": "Full Time",
+      "managerId": "MGR-DATA-01",
+      "managerName": "Laura Nguyen",
+      "location": "Seattle",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP018",
+      "firstName": "Rachel",
+      "lastName": "Edwards",
+      "fullName": "Rachel Edwards",
+      "email": "rachel.edwards@bank.com",
+      "mobileNumber": "+1-318-6506",
+      "department": "Risk & Fraud",
+      "designation": "DevOps Engineer",
+      "joiningDate": "2015-07-11",
+      "employmentType": "Full Time",
+      "managerId": "MGR-FIN-01",
+      "managerName": "Kevin Ross",
+      "location": "Denver",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP019",
+      "firstName": "Sam",
+      "lastName": "Stewart",
+      "fullName": "Sam Stewart",
+      "email": "sam.stewart@bank.com",
+      "mobileNumber": "+1-319-6523",
+      "department": "Finance",
+      "designation": "Security Compliance Lead",
+      "joiningDate": "2016-02-24",
+      "employmentType": "Full Time",
+      "managerId": "MGR-HR-01",
+      "managerName": "Nina Patel",
+      "location": "Atlanta",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP020",
+      "firstName": "Tina",
+      "lastName": "Morris",
+      "fullName": "Tina Morris",
+      "email": "tina.morris@bank.com",
+      "mobileNumber": "+1-320-6540",
+      "department": "HR",
+      "designation": "Java Backend Specialist",
+      "joiningDate": "2017-09-09",
+      "employmentType": "Full Time",
+      "managerId": "MGR-RISK-01",
+      "managerName": "Alicia Stone",
+      "location": "Dallas",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP021",
+      "firstName": "Uma",
+      "lastName": "Reed",
+      "fullName": "Uma Reed",
+      "email": "uma.reed@bank.com",
+      "mobileNumber": "+1-321-6557",
+      "department": "Engineering",
+      "designation": "Frontend React Developer",
+      "joiningDate": "2018-04-22",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-01",
+      "managerName": "Michael Lee",
+      "location": "New York",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP022",
+      "firstName": "Victor",
+      "lastName": "Morgan",
+      "fullName": "Victor Morgan",
+      "email": "victor.morgan@bank.com",
+      "mobileNumber": "+1-322-6574",
+      "department": "Infrastructure",
+      "designation": "Data Engineer",
+      "joiningDate": "2019-11-07",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-02",
+      "managerName": "Samantha Cole",
+      "location": "Chicago",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP023",
+      "firstName": "Wendy",
+      "lastName": "Murphy",
+      "fullName": "Wendy Murphy",
+      "email": "wendy.murphy@bank.com",
+      "mobileNumber": "+1-323-6591",
+      "department": "Compliance",
+      "designation": "Operations Manager",
+      "joiningDate": "2020-06-20",
+      "employmentType": "Full Time",
+      "managerId": "MGR-OPS-01",
+      "managerName": "Olivia White",
+      "location": "Austin",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP024",
+      "firstName": "Xavier",
+      "lastName": "Rivera",
+      "fullName": "Xavier Rivera",
+      "email": "xavier.rivera@bank.com",
+      "mobileNumber": "+1-324-6608",
+      "department": "Core Banking",
+      "designation": "Risk Analyst",
+      "joiningDate": "2021-01-05",
+      "employmentType": "Full Time",
+      "managerId": "MGR-COM-01",
+      "managerName": "Rachel Gomez",
+      "location": "Washington DC",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP025",
+      "firstName": "Yara",
+      "lastName": "Powell",
+      "fullName": "Yara Powell",
+      "email": "yara.powell@bank.com",
+      "mobileNumber": "+1-325-6625",
+      "department": "User Experience",
+      "designation": "HR Business Partner",
+      "joiningDate": "2014-08-18",
+      "employmentType": "Full Time",
+      "managerId": "MGR-CORE-01",
+      "managerName": "Daniel Brooks",
+      "location": "Boston",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP026",
+      "firstName": "Zane",
+      "lastName": "Barnes",
+      "fullName": "Zane Barnes",
+      "email": "zane.barnes@bank.com",
+      "mobileNumber": "+1-326-6642",
+      "department": "Data & Analytics",
+      "designation": "Platform Engineer",
+      "joiningDate": "2015-03-03",
+      "employmentType": "Full Time",
+      "managerId": "MGR-UX-01",
+      "managerName": "Harper Scott",
+      "location": "San Francisco",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP027",
+      "firstName": "Aaron",
+      "lastName": "Howard",
+      "fullName": "Aaron Howard",
+      "email": "aaron.howard@bank.com",
+      "mobileNumber": "+1-327-6659",
+      "department": "Operations",
+      "designation": "QA Automation Engineer",
+      "joiningDate": "2016-10-16",
+      "employmentType": "Full Time",
+      "managerId": "MGR-DATA-01",
+      "managerName": "Laura Nguyen",
+      "location": "Seattle",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP028",
+      "firstName": "Bella",
+      "lastName": "Brooks",
+      "fullName": "Bella Brooks",
+      "email": "bella.brooks@bank.com",
+      "mobileNumber": "+1-328-6676",
+      "department": "Risk & Fraud",
+      "designation": "Business Analyst",
+      "joiningDate": "2017-05-01",
+      "employmentType": "Full Time",
+      "managerId": "MGR-FIN-01",
+      "managerName": "Kevin Ross",
+      "location": "Denver",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP029",
+      "firstName": "Chris",
+      "lastName": "Foster",
+      "fullName": "Chris Foster",
+      "email": "chris.foster@bank.com",
+      "mobileNumber": "+1-329-6693",
+      "department": "Finance",
+      "designation": "Cloud Architect",
+      "joiningDate": "2018-12-14",
+      "employmentType": "Full Time",
+      "managerId": "MGR-HR-01",
+      "managerName": "Nina Patel",
+      "location": "Atlanta",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP030",
+      "firstName": "Daniel",
+      "lastName": "Jones",
+      "fullName": "Daniel Jones",
+      "email": "daniel.jones@bank.com",
+      "mobileNumber": "+1-330-6710",
+      "department": "HR",
+      "designation": "Product Manager",
+      "joiningDate": "2019-07-27",
+      "employmentType": "Full Time",
+      "managerId": "MGR-RISK-01",
+      "managerName": "Alicia Stone",
+      "location": "Dallas",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP031",
+      "firstName": "Emma",
+      "lastName": "Prince",
+      "fullName": "Emma Prince",
+      "email": "emma.prince@bank.com",
+      "mobileNumber": "+1-331-6727",
+      "department": "Engineering",
+      "designation": "Senior Backend Developer",
+      "joiningDate": "2020-02-12",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-01",
+      "managerName": "Michael Lee",
+      "location": "New York",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP032",
+      "firstName": "Frank",
+      "lastName": "Gallagher",
+      "fullName": "Frank Gallagher",
+      "email": "frank.gallagher@bank.com",
+      "mobileNumber": "+1-332-6744",
+      "department": "Infrastructure",
+      "designation": "Full-Stack Engineer",
+      "joiningDate": "2021-09-25",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-02",
+      "managerName": "Samantha Cole",
+      "location": "Chicago",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP033",
+      "firstName": "Grace",
+      "lastName": "Nguyen",
+      "fullName": "Grace Nguyen",
+      "email": "grace.nguyen@bank.com",
+      "mobileNumber": "+1-333-6761",
+      "department": "Compliance",
+      "designation": "DevOps Engineer",
+      "joiningDate": "2014-04-10",
+      "employmentType": "Full Time",
+      "managerId": "MGR-OPS-01",
+      "managerName": "Olivia White",
+      "location": "Austin",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP034",
+      "firstName": "Henry",
+      "lastName": "Miller",
+      "fullName": "Henry Miller",
+      "email": "henry.miller@bank.com",
+      "mobileNumber": "+1-334-6778",
+      "department": "Core Banking",
+      "designation": "Security Compliance Lead",
+      "joiningDate": "2015-11-23",
+      "employmentType": "Full Time",
+      "managerId": "MGR-COM-01",
+      "managerName": "Rachel Gomez",
+      "location": "Washington DC",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP035",
+      "firstName": "Ivy",
+      "lastName": "Wilson",
+      "fullName": "Ivy Wilson",
+      "email": "ivy.wilson@bank.com",
+      "mobileNumber": "+1-335-6795",
+      "department": "User Experience",
+      "designation": "Java Backend Specialist",
+      "joiningDate": "2016-06-08",
+      "employmentType": "Full Time",
+      "managerId": "MGR-CORE-01",
+      "managerName": "Daniel Brooks",
+      "location": "Boston",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP036",
+      "firstName": "Jasmine",
+      "lastName": "Moore",
+      "fullName": "Jasmine Moore",
+      "email": "jasmine.moore@bank.com",
+      "mobileNumber": "+1-336-6812",
+      "department": "Data & Analytics",
+      "designation": "Frontend React Developer",
+      "joiningDate": "2017-01-21",
+      "employmentType": "Full Time",
+      "managerId": "MGR-UX-01",
+      "managerName": "Harper Scott",
+      "location": "San Francisco",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP037",
+      "firstName": "Kyle",
+      "lastName": "Thomas",
+      "fullName": "Kyle Thomas",
+      "email": "kyle.thomas@bank.com",
+      "mobileNumber": "+1-337-6829",
+      "department": "Operations",
+      "designation": "Data Engineer",
+      "joiningDate": "2018-08-06",
+      "employmentType": "Full Time",
+      "managerId": "MGR-DATA-01",
+      "managerName": "Laura Nguyen",
+      "location": "Seattle",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP038",
+      "firstName": "Liam",
+      "lastName": "White",
+      "fullName": "Liam White",
+      "email": "liam.white@bank.com",
+      "mobileNumber": "+1-338-6846",
+      "department": "Risk & Fraud",
+      "designation": "Operations Manager",
+      "joiningDate": "2019-03-19",
+      "employmentType": "Full Time",
+      "managerId": "MGR-FIN-01",
+      "managerName": "Kevin Ross",
+      "location": "Denver",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP039",
+      "firstName": "Mia",
+      "lastName": "Martin",
+      "fullName": "Mia Martin",
+      "email": "mia.martin@bank.com",
+      "mobileNumber": "+1-339-6863",
+      "department": "Finance",
+      "designation": "Risk Analyst",
+      "joiningDate": "2020-10-04",
+      "employmentType": "Full Time",
+      "managerId": "MGR-HR-01",
+      "managerName": "Nina Patel",
+      "location": "Atlanta",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP040",
+      "firstName": "Nina",
+      "lastName": "Walker",
+      "fullName": "Nina Walker",
+      "email": "nina.walker@bank.com",
+      "mobileNumber": "+1-340-6880",
+      "department": "HR",
+      "designation": "HR Business Partner",
+      "joiningDate": "2021-05-17",
+      "employmentType": "Full Time",
+      "managerId": "MGR-RISK-01",
+      "managerName": "Alicia Stone",
+      "location": "Dallas",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP041",
+      "firstName": "Oscar",
+      "lastName": "Allen",
+      "fullName": "Oscar Allen",
+      "email": "oscar.allen@bank.com",
+      "mobileNumber": "+1-341-6897",
+      "department": "Engineering",
+      "designation": "Platform Engineer",
+      "joiningDate": "2014-12-02",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-01",
+      "managerName": "Michael Lee",
+      "location": "New York",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP042",
+      "firstName": "Paula",
+      "lastName": "Scott",
+      "fullName": "Paula Scott",
+      "email": "paula.scott@bank.com",
+      "mobileNumber": "+1-342-6914",
+      "department": "Infrastructure",
+      "designation": "QA Automation Engineer",
+      "joiningDate": "2015-07-15",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-02",
+      "managerName": "Samantha Cole",
+      "location": "Chicago",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP043",
+      "firstName": "Ravi",
+      "lastName": "Baker",
+      "fullName": "Ravi Baker",
+      "email": "ravi.baker@bank.com",
+      "mobileNumber": "+1-343-6931",
+      "department": "Compliance",
+      "designation": "Business Analyst",
+      "joiningDate": "2016-02-28",
+      "employmentType": "Full Time",
+      "managerId": "MGR-OPS-01",
+      "managerName": "Olivia White",
+      "location": "Austin",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP044",
+      "firstName": "Sofia",
+      "lastName": "Nelson",
+      "fullName": "Sofia Nelson",
+      "email": "sofia.nelson@bank.com",
+      "mobileNumber": "+1-344-6948",
+      "department": "Core Banking",
+      "designation": "Cloud Architect",
+      "joiningDate": "2017-09-13",
+      "employmentType": "Full Time",
+      "managerId": "MGR-COM-01",
+      "managerName": "Rachel Gomez",
+      "location": "Washington DC",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP045",
+      "firstName": "Theo",
+      "lastName": "Perez",
+      "fullName": "Theo Perez",
+      "email": "theo.perez@bank.com",
+      "mobileNumber": "+1-345-6965",
+      "department": "User Experience",
+      "designation": "Product Manager",
+      "joiningDate": "2018-04-26",
+      "employmentType": "Full Time",
+      "managerId": "MGR-CORE-01",
+      "managerName": "Daniel Brooks",
+      "location": "Boston",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP046",
+      "firstName": "Ursula",
+      "lastName": "Turner",
+      "fullName": "Ursula Turner",
+      "email": "ursula.turner@bank.com",
+      "mobileNumber": "+1-346-6982",
+      "department": "Data & Analytics",
+      "designation": "Senior Backend Developer",
+      "joiningDate": "2019-11-11",
+      "employmentType": "Full Time",
+      "managerId": "MGR-UX-01",
+      "managerName": "Harper Scott",
+      "location": "San Francisco",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP047",
+      "firstName": "Vikram",
+      "lastName": "Evans",
+      "fullName": "Vikram Evans",
+      "email": "vikram.evans@bank.com",
+      "mobileNumber": "+1-347-6999",
+      "department": "Operations",
+      "designation": "Full-Stack Engineer",
+      "joiningDate": "2020-06-24",
+      "employmentType": "Full Time",
+      "managerId": "MGR-DATA-01",
+      "managerName": "Laura Nguyen",
+      "location": "Seattle",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP048",
+      "firstName": "Willa",
+      "lastName": "Collins",
+      "fullName": "Willa Collins",
+      "email": "willa.collins@bank.com",
+      "mobileNumber": "+1-348-7016",
+      "department": "Risk & Fraud",
+      "designation": "DevOps Engineer",
+      "joiningDate": "2021-01-09",
+      "employmentType": "Full Time",
+      "managerId": "MGR-FIN-01",
+      "managerName": "Kevin Ross",
+      "location": "Denver",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP049",
+      "firstName": "Xena",
+      "lastName": "Sanchez",
+      "fullName": "Xena Sanchez",
+      "email": "xena.sanchez@bank.com",
+      "mobileNumber": "+1-349-7033",
+      "department": "Finance",
+      "designation": "Security Compliance Lead",
+      "joiningDate": "2014-08-22",
+      "employmentType": "Full Time",
+      "managerId": "MGR-HR-01",
+      "managerName": "Nina Patel",
+      "location": "Atlanta",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP050",
+      "firstName": "Yusuf",
+      "lastName": "Rogers",
+      "fullName": "Yusuf Rogers",
+      "email": "yusuf.rogers@bank.com",
+      "mobileNumber": "+1-350-7050",
+      "department": "HR",
+      "designation": "Java Backend Specialist",
+      "joiningDate": "2015-03-07",
+      "employmentType": "Full Time",
+      "managerId": "MGR-RISK-01",
+      "managerName": "Alicia Stone",
+      "location": "Dallas",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP051",
+      "firstName": "Zoe",
+      "lastName": "Cook",
+      "fullName": "Zoe Cook",
+      "email": "zoe.cook@bank.com",
+      "mobileNumber": "+1-351-7067",
+      "department": "Engineering",
+      "designation": "Frontend React Developer",
+      "joiningDate": "2016-10-20",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-01",
+      "managerName": "Michael Lee",
+      "location": "New York",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP052",
+      "firstName": "Ava",
+      "lastName": "Bell",
+      "fullName": "Ava Bell",
+      "email": "ava.bell@bank.com",
+      "mobileNumber": "+1-352-7084",
+      "department": "Infrastructure",
+      "designation": "Data Engineer",
+      "joiningDate": "2017-05-05",
+      "employmentType": "Full Time",
+      "managerId": "MGR-ENG-02",
+      "managerName": "Samantha Cole",
+      "location": "Chicago",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP053",
+      "firstName": "Ben",
+      "lastName": "Bailey",
+      "fullName": "Ben Bailey",
+      "email": "ben.bailey@bank.com",
+      "mobileNumber": "+1-353-7101",
+      "department": "Compliance",
+      "designation": "Operations Manager",
+      "joiningDate": "2018-12-18",
+      "employmentType": "Full Time",
+      "managerId": "MGR-OPS-01",
+      "managerName": "Olivia White",
+      "location": "Austin",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP054",
+      "firstName": "Cora",
+      "lastName": "Cox",
+      "fullName": "Cora Cox",
+      "email": "cora.cox@bank.com",
+      "mobileNumber": "+1-354-7118",
+      "department": "Core Banking",
+      "designation": "Risk Analyst",
+      "joiningDate": "2019-07-03",
+      "employmentType": "Full Time",
+      "managerId": "MGR-COM-01",
+      "managerName": "Rachel Gomez",
+      "location": "Washington DC",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP055",
+      "firstName": "David",
+      "lastName": "Flores",
+      "fullName": "David Flores",
+      "email": "david.flores@bank.com",
+      "mobileNumber": "+1-355-7135",
+      "department": "User Experience",
+      "designation": "HR Business Partner",
+      "joiningDate": "2020-02-16",
+      "employmentType": "Full Time",
+      "managerId": "MGR-CORE-01",
+      "managerName": "Daniel Brooks",
+      "location": "Boston",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP056",
+      "firstName": "Ella",
+      "lastName": "Ross",
+      "fullName": "Ella Ross",
+      "email": "ella.ross@bank.com",
+      "mobileNumber": "+1-356-7152",
+      "department": "Data & Analytics",
+      "designation": "Platform Engineer",
+      "joiningDate": "2021-09-01",
+      "employmentType": "Full Time",
+      "managerId": "MGR-UX-01",
+      "managerName": "Harper Scott",
+      "location": "San Francisco",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP057",
+      "firstName": "Felix",
+      "lastName": "Ward",
+      "fullName": "Felix Ward",
+      "email": "felix.ward@bank.com",
+      "mobileNumber": "+1-357-7169",
+      "department": "Operations",
+      "designation": "QA Automation Engineer",
+      "joiningDate": "2014-04-14",
+      "employmentType": "Full Time",
+      "managerId": "MGR-DATA-01",
+      "managerName": "Laura Nguyen",
+      "location": "Seattle",
+      "status": "Active"
+    },
+    {
+      "employeeId": "EMP058",
+      "firstName": "Gina",
+      "lastName": "Cole",
+      "fullName": "Gina Cole",
+      "email": "gina.cole@bank.com",
+      "mobileNumber": "+1-358-7186",
+      "department": "Risk & Fraud",
+      "designation": "Business Analyst",
+      "joiningDate": "2015-11-27",
+      "employmentType": "Full Time",
+      "managerId": "MGR-FIN-01",
+      "managerName": "Kevin Ross",
+      "location": "Denver",
+      "status": "On Bench"
+    },
+    {
+      "employeeId": "EMP059",
+      "firstName": "Harper",
+      "lastName": "Smith",
+      "fullName": "Harper Smith",
+      "email": "harper.smith@bank.com",
+      "mobileNumber": "+1-359-7203",
+      "department": "Finance",
+      "designation": "Cloud Architect",
+      "joiningDate": "2016-06-12",
+      "employmentType": "Full Time",
+      "managerId": "MGR-HR-01",
+      "managerName": "Nina Patel",
+      "location": "Atlanta",
+      "status": "Inactive"
+    },
+    {
+      "employeeId": "EMP060",
+      "firstName": "Isaac",
+      "lastName": "Brown",
+      "fullName": "Isaac Brown",
+      "email": "isaac.brown@bank.com",
+      "mobileNumber": "+1-360-7220",
+      "department": "HR",
+      "designation": "Product Manager",
+      "joiningDate": "2017-01-25",
+      "employmentType": "Full Time",
+      "managerId": "MGR-RISK-01",
+      "managerName": "Alicia Stone",
+      "location": "Dallas",
+      "status": "Active"
+    }
+  ],
+  "employeeLeaveBalances": [
+    {
+      "employeeId": "EMP001",
+      "annualLeave": 17,
+      "sickLeave": 9,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 3,
+      "leavePendingApproval": 0,
+      "leaveBalance": 31
+    },
+    {
+      "employeeId": "EMP002",
+      "annualLeave": 18,
+      "sickLeave": 10,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 4,
+      "leavePendingApproval": 0,
+      "leaveBalance": 34
+    },
+    {
+      "employeeId": "EMP003",
+      "annualLeave": 19,
+      "sickLeave": 11,
+      "casualLeave": 8,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 5,
+      "leavePendingApproval": 1,
+      "leaveBalance": 36
+    },
+    {
+      "employeeId": "EMP004",
+      "annualLeave": 20,
+      "sickLeave": 12,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 6,
+      "leavePendingApproval": 0,
+      "leaveBalance": 36
+    },
+    {
+      "employeeId": "EMP005",
+      "annualLeave": 21,
+      "sickLeave": 13,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 7,
+      "leavePendingApproval": 0,
+      "leaveBalance": 39
+    },
+    {
+      "employeeId": "EMP006",
+      "annualLeave": 22,
+      "sickLeave": 14,
+      "casualLeave": 5,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 8,
+      "leavePendingApproval": 1,
+      "leaveBalance": 35
+    },
+    {
+      "employeeId": "EMP007",
+      "annualLeave": 23,
+      "sickLeave": 15,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 20,
+      "compensatoryOff": 4,
+      "leaveTaken": 9,
+      "leavePendingApproval": 0,
+      "leaveBalance": 39
+    },
+    {
+      "employeeId": "EMP008",
+      "annualLeave": 24,
+      "sickLeave": 8,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 10,
+      "leavePendingApproval": 0,
+      "leaveBalance": 30
+    },
+    {
+      "employeeId": "EMP009",
+      "annualLeave": 25,
+      "sickLeave": 9,
+      "casualLeave": 8,
+      "maternityLeave": 90,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 11,
+      "leavePendingApproval": 1,
+      "leaveBalance": 32
+    },
+    {
+      "employeeId": "EMP010",
+      "annualLeave": 26,
+      "sickLeave": 10,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 2,
+      "leavePendingApproval": 0,
+      "leaveBalance": 46
+    },
+    {
+      "employeeId": "EMP011",
+      "annualLeave": 27,
+      "sickLeave": 11,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 3,
+      "leavePendingApproval": 0,
+      "leaveBalance": 49
+    },
+    {
+      "employeeId": "EMP012",
+      "annualLeave": 16,
+      "sickLeave": 12,
+      "casualLeave": 5,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 4,
+      "leavePendingApproval": 0,
+      "leaveBalance": 30
+    },
+    {
+      "employeeId": "EMP013",
+      "annualLeave": 17,
+      "sickLeave": 13,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 5,
+      "leavePendingApproval": 0,
+      "leaveBalance": 33
+    },
+    {
+      "employeeId": "EMP014",
+      "annualLeave": 18,
+      "sickLeave": 14,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 20,
+      "compensatoryOff": 3,
+      "leaveTaken": 6,
+      "leavePendingApproval": 0,
+      "leaveBalance": 36
+    },
+    {
+      "employeeId": "EMP015",
+      "annualLeave": 19,
+      "sickLeave": 15,
+      "casualLeave": 8,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 7,
+      "leavePendingApproval": 1,
+      "leaveBalance": 38
+    },
+    {
+      "employeeId": "EMP016",
+      "annualLeave": 20,
+      "sickLeave": 8,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 8,
+      "leavePendingApproval": 0,
+      "leaveBalance": 30
+    },
+    {
+      "employeeId": "EMP017",
+      "annualLeave": 21,
+      "sickLeave": 9,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 9,
+      "leavePendingApproval": 0,
+      "leaveBalance": 33
+    },
+    {
+      "employeeId": "EMP018",
+      "annualLeave": 22,
+      "sickLeave": 10,
+      "casualLeave": 5,
+      "maternityLeave": 90,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 10,
+      "leavePendingApproval": 1,
+      "leaveBalance": 29
+    },
+    {
+      "employeeId": "EMP019",
+      "annualLeave": 23,
+      "sickLeave": 11,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 11,
+      "leavePendingApproval": 0,
+      "leaveBalance": 33
+    },
+    {
+      "employeeId": "EMP020",
+      "annualLeave": 24,
+      "sickLeave": 12,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 2,
+      "leavePendingApproval": 0,
+      "leaveBalance": 42
+    },
+    {
+      "employeeId": "EMP021",
+      "annualLeave": 25,
+      "sickLeave": 13,
+      "casualLeave": 8,
+      "maternityLeave": 0,
+      "paternityLeave": 20,
+      "compensatoryOff": 2,
+      "leaveTaken": 3,
+      "leavePendingApproval": 1,
+      "leaveBalance": 44
+    },
+    {
+      "employeeId": "EMP022",
+      "annualLeave": 26,
+      "sickLeave": 14,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 4,
+      "leavePendingApproval": 0,
+      "leaveBalance": 48
+    },
+    {
+      "employeeId": "EMP023",
+      "annualLeave": 27,
+      "sickLeave": 15,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 5,
+      "leavePendingApproval": 0,
+      "leaveBalance": 51
+    },
+    {
+      "employeeId": "EMP024",
+      "annualLeave": 16,
+      "sickLeave": 8,
+      "casualLeave": 5,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 6,
+      "leavePendingApproval": 0,
+      "leaveBalance": 24
+    },
+    {
+      "employeeId": "EMP025",
+      "annualLeave": 17,
+      "sickLeave": 9,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 7,
+      "leavePendingApproval": 0,
+      "leaveBalance": 27
+    },
+    {
+      "employeeId": "EMP026",
+      "annualLeave": 18,
+      "sickLeave": 10,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 8,
+      "leavePendingApproval": 0,
+      "leaveBalance": 30
+    },
+    {
+      "employeeId": "EMP027",
+      "annualLeave": 19,
+      "sickLeave": 11,
+      "casualLeave": 8,
+      "maternityLeave": 90,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 9,
+      "leavePendingApproval": 1,
+      "leaveBalance": 32
+    },
+    {
+      "employeeId": "EMP028",
+      "annualLeave": 20,
+      "sickLeave": 12,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 20,
+      "compensatoryOff": 1,
+      "leaveTaken": 10,
+      "leavePendingApproval": 0,
+      "leaveBalance": 32
+    },
+    {
+      "employeeId": "EMP029",
+      "annualLeave": 21,
+      "sickLeave": 13,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 11,
+      "leavePendingApproval": 0,
+      "leaveBalance": 35
+    },
+    {
+      "employeeId": "EMP030",
+      "annualLeave": 22,
+      "sickLeave": 14,
+      "casualLeave": 5,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 2,
+      "leavePendingApproval": 1,
+      "leaveBalance": 41
+    },
+    {
+      "employeeId": "EMP031",
+      "annualLeave": 23,
+      "sickLeave": 15,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 3,
+      "leavePendingApproval": 0,
+      "leaveBalance": 45
+    },
+    {
+      "employeeId": "EMP032",
+      "annualLeave": 24,
+      "sickLeave": 8,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 4,
+      "leavePendingApproval": 0,
+      "leaveBalance": 36
+    },
+    {
+      "employeeId": "EMP033",
+      "annualLeave": 25,
+      "sickLeave": 9,
+      "casualLeave": 8,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 5,
+      "leavePendingApproval": 1,
+      "leaveBalance": 38
+    },
+    {
+      "employeeId": "EMP034",
+      "annualLeave": 26,
+      "sickLeave": 10,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 6,
+      "leavePendingApproval": 0,
+      "leaveBalance": 42
+    },
+    {
+      "employeeId": "EMP035",
+      "annualLeave": 27,
+      "sickLeave": 11,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 20,
+      "compensatoryOff": 4,
+      "leaveTaken": 7,
+      "leavePendingApproval": 0,
+      "leaveBalance": 45
+    },
+    {
+      "employeeId": "EMP036",
+      "annualLeave": 16,
+      "sickLeave": 12,
+      "casualLeave": 5,
+      "maternityLeave": 90,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 8,
+      "leavePendingApproval": 0,
+      "leaveBalance": 26
+    },
+    {
+      "employeeId": "EMP037",
+      "annualLeave": 17,
+      "sickLeave": 13,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 9,
+      "leavePendingApproval": 0,
+      "leaveBalance": 29
+    },
+    {
+      "employeeId": "EMP038",
+      "annualLeave": 18,
+      "sickLeave": 14,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 10,
+      "leavePendingApproval": 0,
+      "leaveBalance": 32
+    },
+    {
+      "employeeId": "EMP039",
+      "annualLeave": 19,
+      "sickLeave": 15,
+      "casualLeave": 8,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 11,
+      "leavePendingApproval": 1,
+      "leaveBalance": 34
+    },
+    {
+      "employeeId": "EMP040",
+      "annualLeave": 20,
+      "sickLeave": 8,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 2,
+      "leavePendingApproval": 0,
+      "leaveBalance": 36
+    },
+    {
+      "employeeId": "EMP041",
+      "annualLeave": 21,
+      "sickLeave": 9,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 3,
+      "leavePendingApproval": 0,
+      "leaveBalance": 39
+    },
+    {
+      "employeeId": "EMP042",
+      "annualLeave": 22,
+      "sickLeave": 10,
+      "casualLeave": 5,
+      "maternityLeave": 0,
+      "paternityLeave": 20,
+      "compensatoryOff": 3,
+      "leaveTaken": 4,
+      "leavePendingApproval": 1,
+      "leaveBalance": 35
+    },
+    {
+      "employeeId": "EMP043",
+      "annualLeave": 23,
+      "sickLeave": 11,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 5,
+      "leavePendingApproval": 0,
+      "leaveBalance": 39
+    },
+    {
+      "employeeId": "EMP044",
+      "annualLeave": 24,
+      "sickLeave": 12,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 6,
+      "leavePendingApproval": 0,
+      "leaveBalance": 38
+    },
+    {
+      "employeeId": "EMP045",
+      "annualLeave": 25,
+      "sickLeave": 13,
+      "casualLeave": 8,
+      "maternityLeave": 90,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 7,
+      "leavePendingApproval": 1,
+      "leaveBalance": 40
+    },
+    {
+      "employeeId": "EMP046",
+      "annualLeave": 26,
+      "sickLeave": 14,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 8,
+      "leavePendingApproval": 0,
+      "leaveBalance": 44
+    },
+    {
+      "employeeId": "EMP047",
+      "annualLeave": 27,
+      "sickLeave": 15,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 9,
+      "leavePendingApproval": 0,
+      "leaveBalance": 47
+    },
+    {
+      "employeeId": "EMP048",
+      "annualLeave": 16,
+      "sickLeave": 8,
+      "casualLeave": 5,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 10,
+      "leavePendingApproval": 0,
+      "leaveBalance": 20
+    },
+    {
+      "employeeId": "EMP049",
+      "annualLeave": 17,
+      "sickLeave": 9,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 20,
+      "compensatoryOff": 2,
+      "leaveTaken": 11,
+      "leavePendingApproval": 0,
+      "leaveBalance": 23
+    },
+    {
+      "employeeId": "EMP050",
+      "annualLeave": 18,
+      "sickLeave": 10,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 2,
+      "leavePendingApproval": 0,
+      "leaveBalance": 36
+    },
+    {
+      "employeeId": "EMP051",
+      "annualLeave": 19,
+      "sickLeave": 11,
+      "casualLeave": 8,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 3,
+      "leavePendingApproval": 1,
+      "leaveBalance": 38
+    },
+    {
+      "employeeId": "EMP052",
+      "annualLeave": 20,
+      "sickLeave": 12,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 4,
+      "leavePendingApproval": 0,
+      "leaveBalance": 38
+    },
+    {
+      "employeeId": "EMP053",
+      "annualLeave": 21,
+      "sickLeave": 13,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 5,
+      "leavePendingApproval": 0,
+      "leaveBalance": 41
+    },
+    {
+      "employeeId": "EMP054",
+      "annualLeave": 22,
+      "sickLeave": 14,
+      "casualLeave": 5,
+      "maternityLeave": 90,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 6,
+      "leavePendingApproval": 1,
+      "leaveBalance": 37
+    },
+    {
+      "employeeId": "EMP055",
+      "annualLeave": 23,
+      "sickLeave": 15,
+      "casualLeave": 6,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 7,
+      "leavePendingApproval": 0,
+      "leaveBalance": 41
+    },
+    {
+      "employeeId": "EMP056",
+      "annualLeave": 24,
+      "sickLeave": 8,
+      "casualLeave": 7,
+      "maternityLeave": 0,
+      "paternityLeave": 20,
+      "compensatoryOff": 1,
+      "leaveTaken": 8,
+      "leavePendingApproval": 0,
+      "leaveBalance": 32
+    },
+    {
+      "employeeId": "EMP057",
+      "annualLeave": 25,
+      "sickLeave": 9,
+      "casualLeave": 8,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 2,
+      "leaveTaken": 9,
+      "leavePendingApproval": 1,
+      "leaveBalance": 34
+    },
+    {
+      "employeeId": "EMP058",
+      "annualLeave": 26,
+      "sickLeave": 10,
+      "casualLeave": 9,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 3,
+      "leaveTaken": 10,
+      "leavePendingApproval": 0,
+      "leaveBalance": 38
+    },
+    {
+      "employeeId": "EMP059",
+      "annualLeave": 27,
+      "sickLeave": 11,
+      "casualLeave": 10,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 4,
+      "leaveTaken": 11,
+      "leavePendingApproval": 0,
+      "leaveBalance": 41
+    },
+    {
+      "employeeId": "EMP060",
+      "annualLeave": 16,
+      "sickLeave": 12,
+      "casualLeave": 5,
+      "maternityLeave": 0,
+      "paternityLeave": 0,
+      "compensatoryOff": 1,
+      "leaveTaken": 2,
+      "leavePendingApproval": 0,
+      "leaveBalance": 32
+    }
+  ],
+  "employeeProjectInformation": [
+    {
+      "employeeId": "EMP001",
+      "fullName": "Alice Brown",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-CORE-01",
+          "projectName": "Core Banking Migration",
+          "role": "Backend Lead",
+          "startDate": "2025-01-10",
+          "endDate": "2025-09-30",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-AML-02",
+          "projectName": "AML Rule Engine",
+          "role": "Integration Engineer",
+          "startDate": "2024-06-01",
+          "endDate": "2024-12-15",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Focus on microservice performance improvements",
+      "techStack": [
+        "Java",
+        "Spring Boot"
+      ]
+    },
+    {
+      "employeeId": "EMP002",
+      "fullName": "Bob Hunt",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-INF-10",
+          "projectName": "Infrastructure Modernization",
+          "role": "Full-Stack Engineer",
+          "startDate": "2025-03-01",
+          "endDate": "2026-02-28",
+          "status": "Active"
+        }
+      ],
+      "notes": "Working on CI/CD and cloud migration",
+      "techStack": [
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "employeeId": "EMP003",
+      "fullName": "Charlie Clark",
+      "projectCount": 3,
+      "projects": [
+        {
+          "projectId": "PRJ-OPS-05",
+          "projectName": "DevOps Platform",
+          "role": "DevOps Engineer",
+          "startDate": "2024-02-15",
+          "endDate": "",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-AUTO-03",
+          "projectName": "Test Automation",
+          "role": "SDET",
+          "startDate": "2023-08-01",
+          "endDate": "2024-01-31",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-COMP-07",
+          "projectName": "Compliance Audit",
+          "role": "Support",
+          "startDate": "2025-05-01",
+          "endDate": "2025-07-15",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Supports platform reliability",
+      "techStack": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "employeeId": "EMP004",
+      "fullName": "Diana Patel",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-SEC-21",
+          "projectName": "Security Compliance",
+          "role": "Security Lead",
+          "startDate": "2024-11-01",
+          "endDate": "",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-ENCR-09",
+          "projectName": "Encryption Upgrade",
+          "role": "Advisor",
+          "startDate": "2023-05-10",
+          "endDate": "2023-12-20",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Coordinates with security and core teams",
+      "techStack": [
+        "Python",
+        "Django"
+      ]
+    },
+    {
+      "employeeId": "EMP005",
+      "fullName": "Ethan Davis",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-UX-11",
+          "projectName": "Customer Portal UX",
+          "role": "Backend Specialist",
+          "startDate": "2024-09-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "API and performance optimizations",
+      "techStack": [
+        "Go",
+        "gRPC"
+      ]
+    },
+    {
+      "employeeId": "EMP006",
+      "fullName": "Fiona Taylor",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-DA-12",
+          "projectName": "Analytics Dashboard",
+          "role": "Frontend Developer",
+          "startDate": "2024-07-15",
+          "endDate": "",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-VIZ-04",
+          "projectName": "Data Visualization",
+          "role": "Contributor",
+          "startDate": "2023-10-01",
+          "endDate": "2024-03-31",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Focus on React components",
+      "techStack": [
+        "AWS",
+        "Terraform"
+      ]
+    },
+    {
+      "employeeId": "EMP007",
+      "fullName": "George Anderson",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-OPS-22",
+          "projectName": "ETL Pipeline",
+          "role": "Data Engineer",
+          "startDate": "2025-02-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Data ingestion and schema design",
+      "techStack": [
+        "Kotlin",
+        "Spring"
+      ]
+    },
+    {
+      "employeeId": "EMP008",
+      "fullName": "Hannah Jackson",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-RISK-08",
+          "projectName": "Risk Scoring",
+          "role": "Analyst",
+          "startDate": "2023-04-01",
+          "endDate": "2024-02-28",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-FRAUD-14",
+          "projectName": "Fraud Detection",
+          "role": "Support",
+          "startDate": "2025-01-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Statistical model support",
+      "techStack": [
+        "Angular",
+        "RxJS"
+      ]
+    },
+    {
+      "employeeId": "EMP009",
+      "fullName": "Ian Harris",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-FIN-17",
+          "projectName": "Loan Processing",
+          "role": "Risk Analyst",
+          "startDate": "2019-04-06",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Regulatory reporting",
+      "techStack": [
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "employeeId": "EMP010",
+      "fullName": "Jack Lee",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-HR-19",
+          "projectName": "HR Portal",
+          "role": "HR Business Partner",
+          "startDate": "2015-11-19",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Employee workflows",
+      "techStack": [
+        "Scala",
+        "Akka"
+      ]
+    },
+    {
+      "employeeId": "EMP011",
+      "fullName": "Karen Young",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-PLAT-23",
+          "projectName": "Platform Stability",
+          "role": "Platform Engineer",
+          "startDate": "2016-06-04",
+          "endDate": "",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-MIG-06",
+          "projectName": "Legacy Migration",
+          "role": "Engineer",
+          "startDate": "2022-01-10",
+          "endDate": "2023-07-31",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Platform observability",
+      "techStack": [
+        "Java",
+        "Spring Boot"
+      ]
+    },
+    {
+      "employeeId": "EMP012",
+      "fullName": "Liam Walker",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-API-24",
+          "projectName": "Public API",
+          "role": "API Developer",
+          "startDate": "2024-05-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Rate limiting and docs",
+      "techStack": [
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "employeeId": "EMP013",
+      "fullName": "Mia Roberts",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-UI-25",
+          "projectName": "Admin UI",
+          "role": "Frontend Developer",
+          "startDate": "2024-08-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Accessibility improvements",
+      "techStack": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "employeeId": "EMP014",
+      "fullName": "Noah King",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-DB-26",
+          "projectName": "DB Consolidation",
+          "role": "DBA",
+          "startDate": "2023-03-01",
+          "endDate": "2024-06-30",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-OPT-27",
+          "projectName": "Query Optimization",
+          "role": "Engineer",
+          "startDate": "2025-02-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Index and schema work",
+      "techStack": [
+        "Python",
+        "Django"
+      ]
+    },
+    {
+      "employeeId": "EMP015",
+      "fullName": "Olivia Scott",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-CUST-28",
+          "projectName": "Customer Onboarding",
+          "role": "Product Owner",
+          "startDate": "2022-09-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Feature prioritization",
+      "techStack": [
+        "Go",
+        "gRPC"
+      ]
+    },
+    {
+      "employeeId": "EMP016",
+      "fullName": "Paul Mitchell",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-SEC-29",
+          "projectName": "Identity & Access",
+          "role": "Engineer",
+          "startDate": "2023-11-01",
+          "endDate": "",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-AUD-30",
+          "projectName": "Audit Trail",
+          "role": "Support",
+          "startDate": "2024-01-05",
+          "endDate": "2024-08-20",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Auth and RBAC",
+      "techStack": [
+        "AWS",
+        "Terraform"
+      ]
+    },
+    {
+      "employeeId": "EMP017",
+      "fullName": "Quinn Ellis",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-MON-31",
+          "projectName": "Monitoring",
+          "role": "SRE",
+          "startDate": "2024-04-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Alerts and runbooks",
+      "techStack": [
+        "Kotlin",
+        "Spring"
+      ]
+    },
+    {
+      "employeeId": "EMP018",
+      "fullName": "Rachel Gomez",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-ENG-32",
+          "projectName": "Engineering Tools",
+          "role": "Manager",
+          "startDate": "2021-07-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Team enablement",
+      "techStack": [
+        "Angular",
+        "RxJS"
+      ]
+    },
+    {
+      "employeeId": "EMP019",
+      "fullName": "Sam Carter",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-INT-33",
+          "projectName": "Internal APIs",
+          "role": "Integrator",
+          "startDate": "2022-02-01",
+          "endDate": "2023-05-31",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-EXT-34",
+          "projectName": "Partner Integration",
+          "role": "Engineer",
+          "startDate": "2024-06-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Third-party connectors",
+      "techStack": [
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "employeeId": "EMP020",
+      "fullName": "Tina Brooks",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-MKT-35",
+          "projectName": "Marketing Site",
+          "role": "Frontend",
+          "startDate": "2023-09-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "UI and analytics",
+      "techStack": [
+        "Scala",
+        "Akka"
+      ]
+    },
+    {
+      "employeeId": "EMP021",
+      "fullName": "Uma Patel",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-OPS-36",
+          "projectName": "Operations Runbook",
+          "role": "Support",
+          "startDate": "2022-12-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Process documentation",
+      "techStack": [
+        "Java",
+        "Spring Boot"
+      ]
+    },
+    {
+      "employeeId": "EMP022",
+      "fullName": "Victor Reed",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-ML-37",
+          "projectName": "Model Training",
+          "role": "ML Engineer",
+          "startDate": "2023-01-15",
+          "endDate": "2023-11-30",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-ML-38",
+          "projectName": "Model Serving",
+          "role": "Engineer",
+          "startDate": "2024-02-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Deploying models to prod",
+      "techStack": [
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "employeeId": "EMP023",
+      "fullName": "Wendy Liu",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-DOC-39",
+          "projectName": "Docs Platform",
+          "role": "Technical Writer",
+          "startDate": "2024-03-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "API docs and tutorials",
+      "techStack": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "employeeId": "EMP024",
+      "fullName": "Xander Cole",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-TEST-40",
+          "projectName": "Test Harness",
+          "role": "QA",
+          "startDate": "2023-06-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "End-to-end tests",
+      "techStack": [
+        "Python",
+        "Django"
+      ]
+    },
+    {
+      "employeeId": "EMP025",
+      "fullName": "Yara Singh",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-INT-41",
+          "projectName": "Integration Suite",
+          "role": "Engineer",
+          "startDate": "2024-01-01",
+          "endDate": "2024-10-31",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-PL-42",
+          "projectName": "Platform Enhancements",
+          "role": "Contributor",
+          "startDate": "2025-03-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Feature parity work",
+      "techStack": [
+        "Go",
+        "gRPC"
+      ]
+    },
+    {
+      "employeeId": "EMP026",
+      "fullName": "Zane Morris",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-MAINT-43",
+          "projectName": "Maintenance",
+          "role": "Engineer",
+          "startDate": "2020-05-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Bug fixes and patches",
+      "techStack": [
+        "AWS",
+        "Terraform"
+      ]
+    },
+    {
+      "employeeId": "EMP027",
+      "fullName": "Ava Turner",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-ONB-44",
+          "projectName": "Onboarding Improvements",
+          "role": "PM",
+          "startDate": "2024-10-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "KPI tracking",
+      "techStack": [
+        "Kotlin",
+        "Spring"
+      ]
+    },
+    {
+      "employeeId": "EMP028",
+      "fullName": "Ben Foster",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-BKUP-45",
+          "projectName": "Backup & Restore",
+          "role": "Engineer",
+          "startDate": "2023-09-01",
+          "endDate": "2024-04-30",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-RES-46",
+          "projectName": "Resilience Work",
+          "role": "Lead",
+          "startDate": "2025-01-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "DR planning",
+      "techStack": [
+        "Angular",
+        "RxJS"
+      ]
+    },
+    {
+      "employeeId": "EMP029",
+      "fullName": "Clara White",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-COM-47",
+          "projectName": "Compliance Dashboard",
+          "role": "Analyst",
+          "startDate": "2024-06-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Reporting metrics",
+      "techStack": [
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "employeeId": "EMP030",
+      "fullName": "Derek Young",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-ENG-48",
+          "projectName": "Engineering Dashboard",
+          "role": "Engineer",
+          "startDate": "2022-08-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Team metrics and health",
+      "techStack": [
+        "Scala",
+        "Akka"
+      ]
+    },
+    {
+      "employeeId": "EMP031",
+      "fullName": "Ella Brooks",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-SYS-49",
+          "projectName": "System Hardening",
+          "role": "Engineer",
+          "startDate": "2023-02-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Security configurations",
+      "techStack": [
+        "Java",
+        "Spring Boot"
+      ]
+    },
+    {
+      "employeeId": "EMP032",
+      "fullName": "Finn Clarke",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-ALGO-50",
+          "projectName": "Algorithm Tuning",
+          "role": "Engineer",
+          "startDate": "2024-05-15",
+          "endDate": "2024-12-31",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-ACC-51",
+          "projectName": "Accessibility",
+          "role": "Contributor",
+          "startDate": "2025-04-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Performance and accessibility",
+      "techStack": [
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "employeeId": "EMP033",
+      "fullName": "Grace Hall",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-CUST-52",
+          "projectName": "Customer Insights",
+          "role": "Analyst",
+          "startDate": "2024-07-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Dashboarding",
+      "techStack": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "employeeId": "EMP034",
+      "fullName": "Henry Ford",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-LOG-53",
+          "projectName": "Logging Platform",
+          "role": "Engineer",
+          "startDate": "2023-05-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Centralized logs",
+      "techStack": [
+        "Python",
+        "Django"
+      ]
+    },
+    {
+      "employeeId": "EMP035",
+      "fullName": "Isla Moore",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-ML-54",
+          "projectName": "Model Evaluation",
+          "role": "Data Scientist",
+          "startDate": "2023-09-01",
+          "endDate": "2024-06-30",
+          "status": "Completed"
+        },
+        {
+          "projectId": "PRJ-ML-55",
+          "projectName": "Feature Store",
+          "role": "Engineer",
+          "startDate": "2025-03-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Feature engineering",
+      "techStack": [
+        "Go",
+        "gRPC"
+      ]
+    },
+    {
+      "employeeId": "EMP036",
+      "fullName": "Jackie Ray",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-OPS-56",
+          "projectName": "Capacity Planning",
+          "role": "SRE",
+          "startDate": "2024-10-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Scaling efforts",
+      "techStack": [
+        "AWS",
+        "Terraform"
+      ]
+    },
+    {
+      "employeeId": "EMP037",
+      "fullName": "Kyle Grant",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-BIZ-57",
+          "projectName": "Business Intelligence",
+          "role": "Analyst",
+          "startDate": "2022-06-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "KPI pipelines",
+      "techStack": [
+        "Kotlin",
+        "Spring"
+      ]
+    },
+    {
+      "employeeId": "EMP038",
+      "fullName": "Lara Kim",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-ENG-58",
+          "projectName": "Edge Services",
+          "role": "Engineer",
+          "startDate": "2024-01-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Latency improvements",
+      "techStack": [
+        "Angular",
+        "RxJS"
+      ]
+    },
+    {
+      "employeeId": "EMP039",
+      "fullName": "Mason Cole",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-REL-59",
+          "projectName": "Reliability",
+          "role": "Lead",
+          "startDate": "2023-03-01",
+          "endDate": "",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-OBS-60",
+          "projectName": "Observability",
+          "role": "Engineer",
+          "startDate": "2024-09-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "SLA and SLOs",
+      "techStack": [
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "employeeId": "EMP040",
+      "fullName": "Nina Patel",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-HR-61",
+          "projectName": "HR Analytics",
+          "role": "Analyst",
+          "startDate": "2021-01-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "People analytics",
+      "techStack": [
+        "Scala",
+        "Akka"
+      ]
+    },
+    {
+      "employeeId": "EMP041",
+      "fullName": "Owen Price",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-SEC-62",
+          "projectName": "Pen Testing",
+          "role": "Security Engineer",
+          "startDate": "2023-12-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Periodic assessments",
+      "techStack": [
+        "Java",
+        "Spring Boot"
+      ]
+    },
+    {
+      "employeeId": "EMP042",
+      "fullName": "Piper Young",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-CX-63",
+          "projectName": "Customer Experience",
+          "role": "Designer",
+          "startDate": "2024-03-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Journey mapping",
+      "techStack": [
+        "Node.js",
+        "Express"
+      ]
+    },
+    {
+      "employeeId": "EMP043",
+      "fullName": "Ravi Nair",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-DB-64",
+          "projectName": "DB Migration",
+          "role": "DB Engineer",
+          "startDate": "2024-06-01",
+          "endDate": "2025-01-31",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-ETL-65",
+          "projectName": "ETL Revamp",
+          "role": "Lead",
+          "startDate": "2022-02-01",
+          "endDate": "2023-08-31",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Schema migration",
+      "techStack": [
+        "React",
+        "TypeScript"
+      ]
+    },
+    {
+      "employeeId": "EMP044",
+      "fullName": "Sofia Ruiz",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-MIG-66",
+          "projectName": "Cloud Migration",
+          "role": "Engineer",
+          "startDate": "2023-05-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Lift-and-shift efforts",
+      "techStack": [
+        "Python",
+        "Django"
+      ]
+    },
+    {
+      "employeeId": "EMP045",
+      "fullName": "Theo Brown",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-ENG-67",
+          "projectName": "Edge Caching",
+          "role": "Engineer",
+          "startDate": "2024-08-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "CDN and caching",
+      "techStack": [
+        "Go",
+        "gRPC"
+      ]
+    },
+    {
+      "employeeId": "EMP046",
+      "fullName": "Uma Shah",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-SUP-68",
+          "projectName": "Support Tools",
+          "role": "Support",
+          "startDate": "2022-10-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Tickets and triage",
+      "techStack": [
+        "AWS",
+        "Terraform"
+      ]
+    },
+    {
+      "employeeId": "EMP047",
+      "fullName": "Vera Miles",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-ACC-69",
+          "projectName": "Accounting Integrations",
+          "role": "Engineer",
+          "startDate": "2024-02-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Payment gateway work",
+      "techStack": [
+        "Kotlin",
+        "Spring"
+      ]
+    },
+    {
+      "employeeId": "EMP048",
+      "fullName": "Will Parks",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-AUD-70",
+          "projectName": "Audit Automations",
+          "role": "Engineer",
+          "startDate": "2023-07-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Automating compliance checks",
+      "techStack": [
+        "Angular",
+        "RxJS"
+      ]
+    },
+    {
+      "employeeId": "EMP049",
+      "fullName": "Ximena Cruz",
+      "projectCount": 2,
+      "projects": [
+        {
+          "projectId": "PRJ-PERF-71",
+          "projectName": "Performance Testing",
+          "role": "Tester",
+          "startDate": "2024-11-01",
+          "endDate": "",
+          "status": "Active"
+        },
+        {
+          "projectId": "PRJ-LAT-72",
+          "projectName": "Latency Analysis",
+          "role": "Engineer",
+          "startDate": "2025-06-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Load and stress testing",
+      "techStack": [
+        "Ruby",
+        "Rails"
+      ]
+    },
+    {
+      "employeeId": "EMP050",
+      "fullName": "Yusuf Khan",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-REL-73",
+          "projectName": "Release Orchestration",
+          "role": "Release Manager",
+          "startDate": "2022-01-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Release schedules and coordination",
+      "techStack": [
+        "Scala",
+        "Akka"
+      ]
+    },
+    {
+      "employeeId": "EMP051",
+      "fullName": "Zoe Cook",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-051-74",
+          "projectName": "Digital Experience Refresh",
+          "role": "Frontend Developer",
+          "startDate": "2025-04-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Frontend React Developer project assignment",
+      "techStack": [
+        "React"
+      ]
+    },
+    {
+      "employeeId": "EMP052",
+      "fullName": "Ava Bell",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-052-74",
+          "projectName": "Infrastructure Data Platform",
+          "role": "Data Engineer",
+          "startDate": "2025-02-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Data Engineer project assignment",
+      "techStack": [
+        "Python"
+      ]
+    },
+    {
+      "employeeId": "EMP053",
+      "fullName": "Ben Bailey",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-053-74",
+          "projectName": "Compliance Operations Hub",
+          "role": "Operations Manager",
+          "startDate": "2024-05-01",
+          "endDate": "",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Operations Manager project assignment",
+      "techStack": [
+        "ServiceNow"
+      ]
+    },
+    {
+      "employeeId": "EMP054",
+      "fullName": "Cora Cox",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-054-74",
+          "projectName": "Enterprise Risk Dashboard",
+          "role": "Risk Analyst",
+          "startDate": "2025-01-15",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Risk Analyst project assignment",
+      "techStack": [
+        "Power BI"
+      ]
+    },
+    {
+      "employeeId": "EMP055",
+      "fullName": "David Flores",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-055-74",
+          "projectName": "People Experience Portal",
+          "role": "HR Business Partner",
+          "startDate": "2024-08-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "HR Business Partner project assignment",
+      "techStack": [
+        "Workday"
+      ]
+    },
+    {
+      "employeeId": "EMP056",
+      "fullName": "Ella Ross",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-056-74",
+          "projectName": "Analytics Modernization",
+          "role": "Platform Engineer",
+          "startDate": "2025-03-15",
+          "endDate": "",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Platform Engineer project assignment",
+      "techStack": [
+        "Python"
+      ]
+    },
+    {
+      "employeeId": "EMP057",
+      "fullName": "Felix Ward",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-057-74",
+          "projectName": "Quality Automation Framework",
+          "role": "QA Engineer",
+          "startDate": "2024-09-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "QA Automation Engineer project assignment",
+      "techStack": [
+        "Selenium"
+      ]
+    },
+    {
+      "employeeId": "EMP058",
+      "fullName": "Gina Cole",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-058-74",
+          "projectName": "Fraud Insights Platform",
+          "role": "Business Analyst",
+          "startDate": "2025-05-01",
+          "endDate": "",
+          "status": "Planned"
+        }
+      ],
+      "notes": "Business Analyst project assignment",
+      "techStack": [
+        "SQL"
+      ]
+    },
+    {
+      "employeeId": "EMP059",
+      "fullName": "Harper Smith",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-059-74",
+          "projectName": "Cloud FinOps Program",
+          "role": "Cloud Architect",
+          "startDate": "2024-07-01",
+          "endDate": "",
+          "status": "Completed"
+        }
+      ],
+      "notes": "Cloud Architect project assignment",
+      "techStack": [
+        "Azure"
+      ]
+    },
+    {
+      "employeeId": "EMP060",
+      "fullName": "Isaac Brown",
+      "projectCount": 1,
+      "projects": [
+        {
+          "projectId": "PRJ-060-74",
+          "projectName": "Product Roadmap Planning",
+          "role": "Product Manager",
+          "startDate": "2025-06-01",
+          "endDate": "",
+          "status": "Active"
+        }
+      ],
+      "notes": "Product Manager project assignment",
+      "techStack": [
+        "Jira"
+      ]
+    }
+  ]
+}
